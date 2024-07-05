@@ -20,17 +20,8 @@ const projects = [
         stack: [{ name: "DaVinci Resolve" }, { name: "Canon EOS 90D" }],
         image: "/assets/work/thumb1.png",
         instagram: ""
-    }, {
+    },  {
         num: '02',
-        company: 'fitness',
-        title: 'Fitness',
-        description: '',
-        stack: [{ name: "DaVinci Resolve" }, { name: "Canon EOS 90D" }],
-        image: "/assets/work/thumb1.png",
-        instagram: "",
-         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus laborum ad totam quam labore dolorem, magni eius inventore hic facilis, neque rem explicabo provident modi velit, dignissimos distinctio deserunt! Vero?"
-    }, {
-        num: '03',
         company: 'fashion',
         title: 'Fashion',
         description: '',
@@ -39,7 +30,7 @@ const projects = [
         instagram: "",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus laborum ad totam quam labore dolorem, magni eius inventore hic facilis, neque rem explicabo provident modi velit, dignissimos distinctio deserunt! Vero?"
     }, {
-        num: '04',
+        num: '03',
         company: 'Deebaco',
         title: 'Fashion',
         description: '',
